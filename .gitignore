@@ -1,0 +1,5 @@
+temp/
+arquivo.txt
+*.css
+# ignora todos os arquivos do tipo css
+# deve ser colocado um arquivo, diretório ou tipo de arquivo por linha
